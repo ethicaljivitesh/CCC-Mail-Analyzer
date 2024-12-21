@@ -14,7 +14,7 @@ This is a Python-based application for analyzing email data and extracting infor
 ## Installation:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/ethicaljivitesh/CCC-Mail-Analyzer.git  
 ## First Please Verify Integrity 
 - SHA265 : 07c6dada9bab63614c550ea60a2b0dace8703a7add00ba762b2bf834292f6a9d
 - MD5 : c2bfb387a9fd48cf45a7ad4ca58fabe8 
